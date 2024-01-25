@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cccc7f4e.css",
+    "main.js": "/static/js/main.60d89728.js",
+    "static/css/890.ccb23444.chunk.css": "/static/css/890.ccb23444.chunk.css",
+    "static/js/890.ac73f4e6.chunk.js": "/static/js/890.ac73f4e6.chunk.js",
+    "static/media/neutral.png": "/static/media/neutral.c004755093f3c80a5510.png",
+    "static/media/dark.png": "/static/media/dark.5c9c729933681b353da7.png",
+    "static/media/light.png": "/static/media/light.bec35eb4576e5122d90e.png",
+    "static/media/img.png": "/static/media/img.dacb61d7fe6685fa4a99.png",
+    "static/media/han-solo.mp4": "/static/media/han-solo.db435084c403f6b37d4d.mp4",
+    "static/media/yoda.svg": "/static/media/yoda.e973723aae59d27d3ee2c1b66d90363c.svg",
+    "static/media/dark.svg": "/static/media/dark.aa0f748b7e1287819293b1c5f9a79247.svg",
+    "static/media/solo.svg": "/static/media/solo.1eb245dfd3175dfb72b7dd202d85947f.svg",
+    "static/media/star.svg": "/static/media/star.2a7f3351268e9e4741493c7aea38e4a8.svg",
+    "static/media/star1.svg": "/static/media/star1.691864b51d1535cbe936670700fe1bed.svg",
+    "static/media/img.svg": "/static/media/img.5882c46d31d6e210b8e0316c0eb8c7e8.svg",
+    "index.html": "/index.html",
+    "main.cccc7f4e.css.map": "/static/css/main.cccc7f4e.css.map",
+    "main.60d89728.js.map": "/static/js/main.60d89728.js.map",
+    "890.ccb23444.chunk.css.map": "/static/css/890.ccb23444.chunk.css.map",
+    "890.ac73f4e6.chunk.js.map": "/static/js/890.ac73f4e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccc7f4e.css",
+    "static/js/main.60d89728.js"
+  ]
+}
