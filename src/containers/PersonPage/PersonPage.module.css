@@ -1,0 +1,31 @@
+.person__container{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.person__heading{
+    display: flex;
+    align-items: center;
+    margin-bottom: var(--spacing-medium);
+}
+
+.person__desc{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--spacing-large);
+}
+
+.person__img{
+    width: 300px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.person__name{
+    color: var(--theme-color-yellow);
+    font-size: 32px;
+    margin-right: var(--spacing-medium);
+}

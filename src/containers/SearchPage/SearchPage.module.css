@@ -1,0 +1,25 @@
+.search__container{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.search__heading{
+    display: flex;
+    align-items: center;
+}
+
+.search__title{
+    color: var(--theme-color-yellow);
+    font-size: 32px;
+    margin-right: var(--spacing-large);
+}
+
+.search__input{
+    height: 30px;
+    width: 300px;
+    padding: var(--spacing-small);
+    font-size: 16px;
+}

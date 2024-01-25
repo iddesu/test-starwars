@@ -1,0 +1,12 @@
+.home__container{
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.home__heading{
+    color: var(--theme-color-yellow);
+    font-size: 32px;
+    margin-right: var(--spacing-medium);
+    transition: color .3s ease-out;
+}

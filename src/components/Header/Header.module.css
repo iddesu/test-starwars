@@ -1,0 +1,31 @@
+.header__container{
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    margin: var(--spacing-large) auto;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.header__link{
+    line-height: 1;
+    font-size: 20px;
+    font-weight: bold;
+    color: var(--color-white);
+    text-decoration: underline;
+    margin-right: var(--spacing-large);
+    transition: color .3s ease-out;
+}  
+
+.header__link:hover{
+    color: var(--theme-color-yellow)
+}
