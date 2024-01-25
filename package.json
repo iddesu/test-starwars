@@ -1,5 +1,6 @@
 {
   "name": "starwars",
+  "homepage": "https://iddesu.github.io/test-starwars/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
